@@ -122,7 +122,11 @@ ul {
 
 .img_partner{
     width: 100%;
+}
+
+#name{
     padding-top: 80px;
+    padding-bottom: 220px;
 }
 
 @media (max-width:575px){
