@@ -112,6 +112,18 @@ ul {
     margin-bottom: 25px;
 }
 
+.img{
+    width: 110%;
+}
+
+.img_rating{
+    padding-left: 135px;
+}
+
+.img_partner{
+    width: 100%;
+    padding-top: 80px;
+}
 
 @media (max-width:575px){
     header{
@@ -158,4 +170,10 @@ ul {
     .resImg img {
         width: 100%;
     }
+
+    .img_rating_1{
+        width: 100%;
+
+    }
+
 }
